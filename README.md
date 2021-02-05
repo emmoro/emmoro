@@ -10,10 +10,8 @@ Some of my skills are
 <img src="https://img.shields.io/badge/android-%23009500.svg?&style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/angular%20-%23339935.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/Javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Javascript%20-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" />
 
 #
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=emmoro&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats-r4815ov66.vercel.app/api/top-langs/?username=emmoro&theme=dark&hide=html&layout=compact)](https://github.com/emmoro/github-readme-stats)
-
