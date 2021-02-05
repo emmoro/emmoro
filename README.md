@@ -5,7 +5,7 @@
 #
 
 Some of my skills are
-<img src="https://img.shields.io/badge/JAVA-%230095D1.svg?&style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/KOTLIN-%230095D5.svg?&style=flat-square&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/ANDROID-%23339933.svg?&style=flat-square&logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/ANGULAR-%23339935.svg?&style=flat-square&logo=angular&logoColor=white" />
