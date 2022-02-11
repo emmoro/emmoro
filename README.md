@@ -1,6 +1,6 @@
 ## Hi there ?? I'm Elton
 
-### Full stack Java/kotlin developer with over 9 years of experience, expert in designing innovative IT solutions, improving systems with new features.
+### Full stack Java/kotlin developer with over 10 years of experience, expert in designing innovative IT solutions, improving systems with new features.
 
 #
 
